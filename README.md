@@ -22,17 +22,19 @@ What is the sum of the digits of this rather big number?
 
 ## Trials:
 
- 1. 9 -> 9 2:
- 2. 9+99=108 ->9 3:9+99+999=1007 ->9 hmmm... but it breaks  
+ 1. 9 -> 9
+ 2. 9+99=108 ->9
+ 3. 9+99+999=1007 ->9 
+ 4. hmmm... but it breaks  
     down after 9 9's.
 
 ## Method:
 
-9=10-1
-99=100-1
-999=1000-1
-so summing N 9's
-11111...1110 - N*1 (there are N 1's there)
+ 1. 9=10-1 
+ 2. 99=100-1 
+ 3. 999=1000-1 
+ 4. so summing N 9's
+    11111...1110 - N*1 (there are N 1's there)
 
 ## Solution:
 
@@ -49,5 +51,5 @@ So Sum of digits = 318+7+8+9 = 342**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwOTQwNzg4LDE5NjIzNjAzNjZdfQ==
+eyJoaXN0b3J5IjpbLTExMzQxODUxNjIsMTk2MjM2MDM2Nl19
 -->
