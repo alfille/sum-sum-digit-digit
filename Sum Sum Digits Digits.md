@@ -40,9 +40,6 @@ What is the sum of the digits of this rather big number?
 
 N=321
 So using the fact that each 9999 is 10000-1
-| 9|10-1|
-|99|100-1|
-|999|1000-1|
 
 |add|add|
 |--|--|
@@ -51,9 +48,8 @@ So using the fact that each 9999 is 10000-1
 |+999|+1000-1
 |--|--|
 |9+99+999|1110-3
-|
 
-
+Extending to the first 321 terms
 we have
 111..(321)..1110 - 321
 Sum of the 9's is
@@ -65,6 +61,6 @@ So Sum of digits = 318+7+8+9 = 342**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MDc1MjAwMSwyMTI3ODg4OTM5LC0xMT
+eyJoaXN0b3J5IjpbMTI5NDI1NjA0OSwyMTI3ODg4OTM5LC0xMT
 M0MTg1MTYyLDE5NjIzNjAzNjZdfQ==
 -->
