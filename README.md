@@ -43,11 +43,12 @@ So using the fact that each 9999 is 10000-1
 | 9|10-1|
 |99|100-1|
 |999|1000-1|
+|--|--|
 |9|10-1  |
+| +99 | 100-1 |
+|+999|1000-1
 |--|--|
-| 99 | 100-1 |
-|--|--|
-|999|
+|9+99+999|1110-3
 
 
 we have
@@ -61,6 +62,6 @@ So Sum of digits = 318+7+8+9 = 342**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzgyMjk0NTMsMjEyNzg4ODkzOSwxMT
-k2NDEwMDI1XX0=
+eyJoaXN0b3J5IjpbNzg0MTY4ODA5LDIxMjc4ODg5MzksMTE5Nj
+QxMDAyNV19
 -->
