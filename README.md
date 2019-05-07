@@ -44,6 +44,7 @@ So using the fact that each 9999 is 10000-1
 |99|100-1|
 |999|1000-1|
 
+
 we have
 111..(321)..1110 - 321
 Sum of the 9's is
@@ -55,5 +56,5 @@ So Sum of digits = 318+7+8+9 = 342**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NjQxMDAyNV19
+eyJoaXN0b3J5IjpbLTEyMTY3MzkzNjksMTE5NjQxMDAyNV19
 -->
