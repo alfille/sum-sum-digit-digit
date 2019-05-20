@@ -30,34 +30,7 @@ What is the sum of the digits of this rather big number?
 
 ## Method:
 
- 1. 9=10-1 
- 2. 99=100-1 
- 3. 999=1000-1 
- 4. so summing N 9's
-    11111...1110 - N*1 (there are N 1's there)
-
-## Solution:
-
-N=321
-So using the fact that each 9999 is 10000-1
-
-|add|add|
-|--|--|
-|9|10-1  |
-| +99 | +100-1 |
-|+999|+1000-1
-|--|--|
-|9+99+999|1110-3
-
-Extending to the first 321 terms
-we have
-111..(321)..1110 - 321
-Sum of the 9's is
-**111..(321)..1110 - 321 =**
-**111..(321-3)..1110000 + 1110-321**
-**=111..(318)..1110789
-So Sum of digits = 318+7+8+9 = 342**
-
+ Well, that would give it away. Look at the [wiki](https://github.com/alfille/sum-sum-digit-digit/wiki) where the  problem, the solution, and the far more general analysis is shown.
 
 
 <!--stackedit_data:
